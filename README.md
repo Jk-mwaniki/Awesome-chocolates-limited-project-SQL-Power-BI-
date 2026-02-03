@@ -1,5 +1,5 @@
 # Awesome-chocolates-limited-project-SQL-Power-BI-
-This project presents a sales performance analysis for Awesome Chocolates Ltd, combining SQL based data exploration with a Power BI interactive dashboard to uncover insights across geography, time, and salesperson performance.  The solution demonstrates how raw sales data can be queried,filtered, and analyzed using SQL, then visualized in Power BI.
+This project presents a sales performance analysis for Awesome Chocolates Ltd, combining SQL based data exploration with a Power BI interactive dashboard to uncover insights across geography, time, and salesperson performance. The solution demonstrates how raw sales data can be queried,filtered, and analyzed using SQL, then visualized in Power BI.
 
 🔹 Problem Statement
 
